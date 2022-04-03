@@ -1,5 +1,5 @@
 {
-  "name": "yt-search",
+  "name": "yetesearch",
   "version": "2.10.3",
   "description": "search youtube",
   "main": "dist/yt-search.js",
